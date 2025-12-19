@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @realyuyangyang
-- 👀 I’m interested in AI.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Yu Yangyang
+
+Focused on AI.
+
 
 <!---
 realyuyangyang/realyuyangyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
