@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @realyuyangyang
-- 👀 I’m interested in computational biology.
-- 🌱 I’m currently learning AI.
+- 👀 I’m interested in AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
